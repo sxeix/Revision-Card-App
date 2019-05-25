@@ -2,11 +2,7 @@ What is your name?
 James
 How old are you?
 19 years old
-What is your surname?
-Bryant
-How loli are you?
-uwupercent
-Who is my father?
-Edward
 Why am I so cool?
 It's because I know C++
+What other languages do I know?
+Python and Java
